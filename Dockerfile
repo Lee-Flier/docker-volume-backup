@@ -1,1 +1,1 @@
-From docker.io/offen/docker-volume-backup
+From ghcr.io/offen/docker-volume-backup
