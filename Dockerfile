@@ -1,1 +1,1 @@
-From ghcr.io/hasura/graphql-data-connector:v2.27.0
+From hasura/graphql-data-connector:v2.27.0
